@@ -1,5 +1,6 @@
+<img src="[img_girl.jpg](https://media.licdn.com/dms/image/v2/D5616AQEnf8K1MiS4yg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719578904575?e=1742428800&v=beta&t=c9O2Puw61LaT6_XUS6iRixiyv4sIMYf6aPqvjzrQwcg)" alt="Girl in a jacket" width="500" height="600">
 <h1 align="center">Hi 👋, I'm Bibrata Kumar Sarkar</h1>
-<h3 align="center">A passionate Web Designer, Developer and WordPress Expert from Bangladesh.</h3>
+<h2 align="center">A passionate Web Designer, Developer and WordPress Expert from Bangladesh.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibratakumarsarkar&label=Profile%20views&color=0e75b6&style=flat" alt="bibratakumarsarkar" /> </p>
 
