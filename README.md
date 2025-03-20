@@ -1,4 +1,8 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQEnf8K1MiS4yg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719578904575?e=1747872000&v=beta&t=uVpaS28yUCBCQbIq-omBaUz0VsA17UUD_1H7j1clklc">
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 <h1 align="center">Hi 👋, I'm Bibrata Kumar Sarkar</h1>
 <h2 align="center">A passionate Web Designer, Developer and WordPress Expert from Bangladesh.</h2>
 
