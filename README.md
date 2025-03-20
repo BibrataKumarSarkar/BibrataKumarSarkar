@@ -1,8 +1,4 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQEnf8K1MiS4yg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719578904575?e=1747872000&v=beta&t=uVpaS28yUCBCQbIq-omBaUz0VsA17UUD_1H7j1clklc">
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 <h1 align="center">Hi 👋, I'm Bibrata Kumar Sarkar</h1>
 <h2 align="center">A passionate Web Designer, Developer and WordPress Expert from Bangladesh.</h2>
 
@@ -20,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://moneymakingtrainings.blogspot.com/](https://moneymakingtrainings.blogspot.com/)
 
-- 📫 How to reach me **biputeacherm@gmail.com**
+- 📫 How to reach me **bipusarkar1980@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bibrata-kumar-sarkar-a3a0b1145/](https://www.linkedin.com/in/bibrata-kumar-sarkar-a3a0b1145/)
 
