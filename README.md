@@ -1,4 +1,5 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEnf8K1MiS4yg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719578904575?e=1747872000&v=beta&t=uVpaS28yUCBCQbIq-omBaUz0VsA17UUD_1H7j1clklc">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEnf8K1MiS4yg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719578904575?e=1755129600&v=beta&t=E0RSG8Tdm9kCEBaxjjXzA6pDkNsdqtlIGyuvRo-cy5c">
+
 <h1 align="center">Hi 👋, I'm Bibrata Kumar Sarkar</h1>
 <h2 align="center">A passionate Web Designer, Developer and WordPress Expert from Bangladesh.</h2>
 
